@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLABS.ANN", "TLABS.ANN\TLABS.ANN.csproj", "{508A259C-5091-4004-AA40-A4A07D59001D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{508A259C-5091-4004-AA40-A4A07D59001D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{508A259C-5091-4004-AA40-A4A07D59001D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{508A259C-5091-4004-AA40-A4A07D59001D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{508A259C-5091-4004-AA40-A4A07D59001D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

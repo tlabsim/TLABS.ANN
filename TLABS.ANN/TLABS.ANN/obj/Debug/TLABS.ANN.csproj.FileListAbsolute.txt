@@ -1,0 +1,10 @@
+c:\users\towhid\documents\visual studio 2010\Projects\TLABS.ANN\TLABS.ANN\bin\Debug\TLABS.ANN.dll
+c:\users\towhid\documents\visual studio 2010\Projects\TLABS.ANN\TLABS.ANN\bin\Debug\TLABS.ANN.pdb
+c:\users\towhid\documents\visual studio 2010\Projects\TLABS.ANN\TLABS.ANN\obj\Debug\ResolveAssemblyReference.cache
+c:\users\towhid\documents\visual studio 2010\Projects\TLABS.ANN\TLABS.ANN\obj\Debug\TLABS.ANN.dll
+c:\users\towhid\documents\visual studio 2010\Projects\TLABS.ANN\TLABS.ANN\obj\Debug\TLABS.ANN.pdb
+G:\Neural Network\TLABS.ANN\TLABS.ANN\bin\Debug\TLABS.ANN.dll
+G:\Neural Network\TLABS.ANN\TLABS.ANN\bin\Debug\TLABS.ANN.pdb
+G:\Neural Network\TLABS.ANN\TLABS.ANN\obj\Debug\ResolveAssemblyReference.cache
+G:\Neural Network\TLABS.ANN\TLABS.ANN\obj\Debug\TLABS.ANN.dll
+G:\Neural Network\TLABS.ANN\TLABS.ANN\obj\Debug\TLABS.ANN.pdb
