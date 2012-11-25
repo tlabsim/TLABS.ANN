@@ -6,14 +6,14 @@ using TLABS.ANN;
 
 namespace TLABS.BPN
 {
-    public class BackPropagationNetwork : LearningAlgorithm
+    public class BackPropagationTrainer : LearningAlgorithm
     {
         #region Constructors
-        public BackPropagationNetwork()
+        public BackPropagationTrainer()
         {
         }
 
-        public BackPropagationNetwork(NeuralNetwork network)
+        public BackPropagationTrainer(NeuralNetwork network)
         {
             this.NeuralNetwork = network;
         } 

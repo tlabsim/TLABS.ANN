@@ -13,7 +13,7 @@ namespace TLABS.BPN
     public partial class BPNFrom : Form
     {
         ToolTip ToolTip = new ToolTip();
-        public BackPropagationNetwork BPN = new BackPropagationNetwork();
+        public BackPropagationTrainer BPN = new BackPropagationTrainer();
         NeuralNetwork NN = new NeuralNetwork();
         
         public BPNFrom()
